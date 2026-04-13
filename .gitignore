@@ -1,0 +1,9 @@
+# Build outputs
+main
+*.o
+
+# Claude
+.claude/
+
+# macOS
+.DS_Store
